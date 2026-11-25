@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/association.iml" filepath="$PROJECT_DIR$/.idea/association.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../q1_data_mining/.idea/q1-data-mining.iml" filepath="$PROJECT_DIR$/../q1_data_mining/.idea/q1-data-mining.iml" />
+    </modules>
+  </component>
+</project>
